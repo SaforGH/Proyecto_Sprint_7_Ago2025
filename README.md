@@ -1,2 +1,2 @@
 # Proyecto_Sprint_7_Ago2025
-Creación y gestión de entornos virtuales de Python para desarrollo de una aplicación web utilizando un Dataset con datos de venta de automóviles 
+Crear una aplicación web interactiva que este disponible en línea. La aplicación mostrará el título de la aplicación y realizara la exploración de los datos contenidos en el dataset “vehicle_us”  y cuando  el usuario seleccione el botón o casilla de verificación va  a mostrar un histograma y/o gráfico de dispersión Creación: En este proyecto se crea un utilizara un entorno virtual llamado "vehicles_env" 
